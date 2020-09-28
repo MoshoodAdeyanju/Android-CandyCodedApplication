@@ -4,7 +4,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601311112594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git add . &amp;&amp; git commit -m 'Completed module'">
+      <created>1601311700526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601311700526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +196,8 @@
     <MESSAGE value="git add . &amp;&amp; git commit -m 'Completed module'&#10;git push origin master" />
     <MESSAGE value="git add . &amp;&amp; git commit -m 'Completed module'&#10;git push origin master&#10;git remote add origin https://github.com/MoshoodAdeyanju/pluralsight-projects-Android-CandyCodedApplication-e57feeb.git&#10;git branch -M master&#10;git push -u origin master" />
     <MESSAGE value="&#10;git push origin master" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;git push origin master" />
+    <MESSAGE value="git add . &amp;&amp; git commit -m 'Completed module'" />
+    <option name="LAST_COMMIT_MESSAGE" value="git add . &amp;&amp; git commit -m 'Completed module'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601304321007">
@@ -198,10 +208,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="573" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601303182611" />
-    <state x="175" y="0" key="CommitChangelistDialog2" timestamp="1601311094260">
+    <state x="175" y="0" key="CommitChangelistDialog2" timestamp="1601313427001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601311094260" />
+    <state x="175" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601313427001" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1601310798340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
